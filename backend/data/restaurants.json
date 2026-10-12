@@ -1,0 +1,58 @@
+[
+  {
+    "name": "The Good Plate",
+    "cuisine": "Italian",
+    "borough": "Manhattan",
+    "rating": 4.8,
+    "address": "55 W 21st St, New York, NY 10010"
+  },
+  {
+    "name": "Sushi Zen",
+    "cuisine": "Japanese",
+    "borough": "Brooklyn",
+    "rating": 4.7,
+    "address": "218 Bedford Ave, Brooklyn, NY 11249"
+  },
+  {
+    "name": "Burger Hub",
+    "cuisine": "American",
+    "borough": "Queens",
+    "rating": 4.5,
+    "address": "47-15 Broadway, Astoria, NY 11103"
+  },
+  {
+    "name": "Taco Fiesta",
+    "cuisine": "Mexican",
+    "borough": "Manhattan",
+    "rating": 4.3,
+    "address": "104 7th Ave S, New York, NY 10014"
+  },
+  {
+    "name": "Dragon Bowl",
+    "cuisine": "Chinese",
+    "borough": "Brooklyn",
+    "rating": 4.2,
+    "address": "627 5th Ave, Brooklyn, NY 11215"
+  },
+  {
+    "name": "Pasta House",
+    "cuisine": "Italian",
+    "borough": "Queens",
+    "rating": 4.1,
+    "address": "107-12 70th Rd, Forest Hills, NY 11375"
+  },
+  {
+    "name": "Thai Delight",
+    "cuisine": "Thai",
+    "borough": "Manhattan",
+    "rating": 3.9,
+    "address": "402 E 64th St, New York, NY 10065"
+  },
+  {
+    "name": "Ramen Spot",
+    "cuisine": "Japanese",
+    "borough": "The Bronx",
+    "rating": 3.8,
+    "address": "2440 Arthur Ave, Bronx, NY 10458"
+  }
+]

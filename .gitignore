@@ -1,0 +1,13 @@
+# Local environment files and secrets
+.env
+backend/.env
+**/.env.local
+
+# Installed dependencies and generated output
+node_modules/
+**/node_modules/
+frontend/dist/
+.vercel/
+
+# OS metadata
+.DS_Store
